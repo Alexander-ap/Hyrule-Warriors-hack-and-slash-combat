@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\17136\Desktop\游戏\enemy_boss.h(153,25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\17136\Desktop\游戏\skill_system.h(106,23): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  游戏.vcxproj -> C:\Users\17136\Desktop\游戏\x64\Debug\游戏.exe

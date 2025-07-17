@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\skill_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:skill_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\enemy_boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:enemy_boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\quit_button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:quit_button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\start_button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:start_button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\XUTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|C:\\Users\\17136\\Desktop\\\u6E38\u620F\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63ED319E-F358-482A-AF3A-7CF22595C4AE}|\u6E38\u620F.vcxproj|solutionrelative:util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\util.h",
+              "RelativeDocumentMoniker": "util.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\util.h",
+              "RelativeToolTip": "util.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T06:39:29.808Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemy_boss.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\enemy_boss.h",
+              "RelativeDocumentMoniker": "enemy_boss.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\enemy_boss.h",
+              "RelativeToolTip": "enemy_boss.h",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-16T00:56:19.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
+              "ViewState": "AgIAAA8UAAAAAAAAAAAAwB8UAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T08:23:32.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "skill_system.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\skill_system.h",
+              "RelativeDocumentMoniker": "skill_system.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\skill_system.h",
+              "RelativeToolTip": "skill_system.h",
+              "ViewState": "AgIAADIAAAAAAAAAAADwvzYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:08:49.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAE4BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T02:27:38.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "quit_button.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\quit_button.h",
+              "RelativeDocumentMoniker": "quit_button.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\quit_button.h",
+              "RelativeToolTip": "quit_button.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T02:55:30.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "start_button.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\start_button.h",
+              "RelativeDocumentMoniker": "start_button.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\start_button.h",
+              "RelativeToolTip": "start_button.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T02:55:11.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "button.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\button.h",
+              "RelativeDocumentMoniker": "button.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\button.h",
+              "RelativeToolTip": "button.h",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwFwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T02:43:53.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T07:46:50.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bullet.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\bullet.h",
+              "RelativeDocumentMoniker": "bullet.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\bullet.h",
+              "RelativeToolTip": "bullet.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T07:42:04.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\player.h",
+              "RelativeDocumentMoniker": "player.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\player.h",
+              "RelativeToolTip": "player.h",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T07:25:36.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "animation.h",
+              "DocumentMoniker": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\animation.h",
+              "RelativeDocumentMoniker": "animation.h",
+              "ToolTip": "C:\\Users\\17136\\Desktop\\\u6E38\u620F\\animation.h",
+              "RelativeToolTip": "animation.h",
+              "ViewState": "AgIAADIAAAAAAAAAAADwvzsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T06:20:02.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
